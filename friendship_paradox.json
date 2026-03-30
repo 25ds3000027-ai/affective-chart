@@ -1,6 +1,6 @@
 {
-  "prompt": "Create a highly cinematic, low-angle photograph inside a vast, rain-streaked iron and glass structure at night. A lone figure stands on an elevated walkway holding a dim lantern. Below, a massive glowing crowd forms a dense, radiant cluster. A few individuals subtly share the same warm glow as the lone figure, but are embedded within much larger, brighter, and more densely interconnected clusters. No lines or diagrams—only light intensity and clustering. Uncanny, atmospheric, emotionally unsettling.",
-  "model": "Gemini",
+  "prompt": "Create a highly cinematic, low-angle photograph inside a vast, rain-streaked iron and glass structure at night. A lone figure stands on an elevated walkway holding a dim lantern. Below, a massive glowing crowd forms a dense, radiant cluster. A small, clearly visible group of individuals directly below the figure shares a similar warm glow, visually linking them to the figure. These individuals are embedded within much larger, brighter, and denser clusters of people, making it clear they are far more interconnected. No lines, no diagrams—only light, clustering, and contrast. Uncanny, atmospheric, emotionally unsettling.",
+  "model": "DALL·E 3",
   "paradox": "Friendship Paradox",
-  "visual_logic": "A lone figure connects to a few glowing individuals, but those individuals are embedded in far denser, brighter clusters, making others appear more connected."
+  "visual_logic": "A lone figure connects to a small group, but those individuals are embedded in much larger, denser clusters, making others appear more connected."
 }
