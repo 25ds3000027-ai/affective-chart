@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly photorealistic, cinematic macro-photography shot of a rustic carpenter's workbench. On the workbench are two identical oak wood blocks. On the left block, steel nails are randomly scattered and a thick copper wire is bent into an extremely chaotic, jagged shape to touch every nail perfectly. On the right block, a slightly different scatter of nails is present, and the same chaotic wire is placed but fails to align, floating awkwardly and missing the nails. Dramatic lighting, shallow depth of field, ultra-detailed, no text, no labels, no diagrams.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A wire perfectly shaped to match one noisy pattern fails completely on a new pattern, showing memorization instead of generalization."
+}
