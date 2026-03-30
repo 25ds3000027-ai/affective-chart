@@ -1,7 +1,7 @@
 {
-  "prompt": "A long bookshelf representing human languages. On the left, books are colorful, detailed, rich with scripts and texture. Moving to the right, books gradually lose detail, text fades, covers become blank. At the far right, books are completely empty and dissolving into dust in the air, with faint ghost-like silhouettes emerging from the dust symbolizing lost voices. Soft dramatic lighting, dark minimal background, emotional, symbolic, cinematic, no text, no labels, no charts, no infographic style, ultra detailed, 4k, magazine cover style.",
+  "prompt": "A stark, photorealistic macro photograph of a massive, ancient tree stump cross-section resting on a bleak concrete floor. The concentric tree rings act as a natural timeline moving from the center outward. The innermost rings are densely packed, pristine, and richly textured, representing historical abundance. As the rings progress toward the outer edge, the wood becomes increasingly hollowed, splintered, and eroded. The outermost rings are almost completely destroyed, leaving jagged fragments over empty space. Harsh dramatic overhead lighting, deep shadows, raw documentary style, no text, no labels, no charts.",
   "model": "DALL·E 3",
-  "dataset_name": "Ethnologue: Languages of the World",
-  "dataset_url": "https://www.ethnologue.com/",
-  "insight": "Thousands of languages are disappearing, leading to irreversible cultural and human loss."
+  "dataset_name": "Global Forest Change Dataset (Hansen et al.)",
+  "dataset_url": "https://earthenginepartners.appspot.com/science-2013-global-forest",
+  "insight": "Forest loss has accelerated in recent decades, leaving dramatically reduced ecological volume compared to historical baselines."
 }
