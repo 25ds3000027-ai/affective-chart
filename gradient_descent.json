@@ -1,0 +1,8 @@
+{
+  "prompt": "A Japanese ukiyo-e woodblock print in the style of Edo-period landscape art (1603–1868). A lone traveler is descending a steep mountain path that clearly steps downward in multiple visible levels toward a smooth valley basin at the bottom. The mountain shows repeated descending contours, like terraces or steps, emphasizing progressive downward movement. The traveler appears multiple times along the path at different positions, subtly indicating step-by-step descent. Strong diagonal composition, flat unshaded color areas, bold black outlines, limited indigo and beige palette, visible woodblock texture. No text, no modern elements.",
+  "model": "DALL·E 3",
+  "concept": "gradient descent",
+  "tradition_name": "Japanese Ukiyo-e woodblock prints",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "Flat color planes, bold outlines, diagonal composition, and stylized landscapes used to depict iterative descent toward a minimum."
+}
